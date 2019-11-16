@@ -36,8 +36,7 @@ Female and Unknown.
 !![](images/image004.png)
 
 **Tableau Prep Builder 2019.3 \| Output File.** 
-!![](images/image005.png)
-
+!![](images/image004.png)
 =================================================================================================================
 
 Combining the output of 2015, 2016, 2017 & 2018 with my filters took
