@@ -1,5 +1,5 @@
-![](images/image1.jpg){width="6.5in" height="2.3402777777777777in"}\
-\
+![](images/image001.jpg)
+
 Data sets were downloaded from the linked website and easily merged
 using a dos command prompt due to the gigantic nature of the data. 2015
 through 2018 was chosen because 2019 data was incomplete. 2013 and 2014
@@ -8,8 +8,8 @@ may not have a full data set. For sake of size and time and interest in
 comparing data over years, a very large data set of over 53 million
 records are analyzed below.\
 \
-![](images/image002.png){width="4.706106736657918in" height="4.28125in"}\
-\
+![](images/image002.png) 
+
 To complement the learning done in class, I completed the **Linkedin
 Learning: Cleaning, Transforming and Prepping Your Data With Tableau
 Prep** course online in order to be skilled with using Tableau Prep
@@ -28,14 +28,15 @@ cleaned 2017 column names that needed to be renamed to align with 2015,
 2016 & 2018 data so that the resulting fields would have no mismatching
 fields.
 
-![](images/image003.png){width="6.5in" height="2.341666666666667in"}
+![](images/image003.png)
 
 Removed latitude & longitude extreme outliers & labeled gender as Male,
 Female and Unknown.
 
-!![](images/image004.png){width="6.5in" height="3.147222222222222in"}
+!![](images/image004.png)
 
-**Tableau Prep Builder 2019.3 \| Output File.** ![](media/image5.png){width="6.5in" height="2.870138888888889in"}
+**Tableau Prep Builder 2019.3 \| Output File.** 
+![](media/image5.png){width="6.5in" height="2.870138888888889in"}
 =================================================================================================================
 
 Combining the output of 2015, 2016, 2017 & 2018 with my filters took
