@@ -36,7 +36,7 @@ Female and Unknown.
 !![](images/image004.png)
 
 **Tableau Prep Builder 2019.3 \| Output File.** 
-!![](images/image004.png)
+!![](images/image005.png)
 =================================================================================================================
 
 Combining the output of 2015, 2016, 2017 & 2018 with my filters took
@@ -50,17 +50,17 @@ dismiss this data has probably the unknown defaults in some sort of form
 entry defaults. Having the Gender, Birth Year as columns and Sum of all
 records below produced this interesting spike in confused 50 year olds.
 
-![](images/image005.png) 
+![](images/image006.png) 
 
 By removing the sorted Gender and just using the birth year and sum of
 records, the spike was quite obvious.\
 \
-![](images/image006.png) 
+![](images/image007.png) 
 
 By removing the unknown gender as a filter we achieve a very nice
 graph.\
 \
-![](images/image007.png) 
+![](images/image008.png) 
 \
 \
 \
@@ -82,13 +82,12 @@ Questions to Answer:
     d.  2018: 16 million\
         \
         \
-![](media/image9.png){width="2.619832677165354in"
-        height="3.9375in"}
+![](media/image009.png) 
 
 2.  **By what percentage has total ridership grown?**
     =================================================
 
-![](images/image008.png) 
+![](images/image010.png) 
 
  This rider growth graph shows the growth continuation from Jan 2015 to
  Dec 31th 2018. There is a gap in the data for Q4 of 2016 between
@@ -97,7 +96,7 @@ Questions to Answer:
 3\. How has the proportion of short-term customers and annual subscribers
 changed?\
 \
-![](images/image009.png)
+![](images/image011.png)
 \
 It's logical to see how the drop off of subscribers in Q1 of every year
 it being the winter months in New York.
@@ -105,7 +104,7 @@ it being the winter months in New York.
 **4. What are the peak hours in which bikes are used during summer
 months?\
 \
-![](images/image010.png)
+![](images/image012.png)
 
 **Again no surprise here, very logical that the peak hours during the
 summer months of June, July & August are early morning at 8am and peak
@@ -113,7 +112,7 @@ between 5 & 6pm.**
 
 **5. What are the peak hours in which bikes are used during winter
 months?**\
-![](images/image011.png) 
+![](images/image013.png) 
 Again no surprise here, very logical that the peak hours during the
 summer months of December, January & February are early morning at 8am
 and peak at 5pm.
@@ -124,13 +123,13 @@ and peak at 5pm.
 **6. Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)** 
 ====================================================================================================================================================
 
-![](images/image012.png) 
+![](images/image014.png) 
 
 So it seems that the top 10 starting stations are relatively close to
 New York City Subway line.**\
 \
-![](images/image013.png) 
-![](images/image014.png) 
+![](images/image015.png) 
+![](images/image016.png) 
 **
 
 **\
@@ -139,7 +138,7 @@ New York City Subway line.**\
 **7. Today, what is the gender breakdown of active participants (Male v.
 Female)?**\
 \
-![](images/image015.png) 
+![](images/image017.png) 
 \
 Here is a chart that shows gender by birth year with the **Sum** of the
 duration of the trips. While a vastly different graph below shows the
@@ -149,23 +148,23 @@ through central park during the day. I believe strongly that the 1935 /
 2018 data for both male and females need to be weeded out. There a
 smaller spike for males born in 1931 for the 2015 data set.\
 \
-![](images/image016.png) 
+![](images/image018.png) 
 
 **8. How does the average trip duration change by age?**
 ========================================================
 
-![](images/image017.png)
+![](images/image019.png)
 \
 It would be worth diving deeper to analyze the spike in people born in
 1935. After parsing out the graph, it's easy to see how there's an
 anomaly in the 2018 data which is the root cause of the odd number
 spike.\
-![](images/image018.png) 
+![](images/image020.png) 
 
 **9. Which bikes (by ID) are most likely due for repair or inspection in the timespan?**
 ========================================================================================
 
-![](images/image019.png) 
+![](images/image021.png) 
 \
 While playing with the charts an interesting point revealed itself. The
 above chart is showing the total records by Bike ID and it's logical
@@ -174,25 +173,25 @@ older bikes that have been on the services the longest since 2015 which
 begged me to ask the question how could I show that which brought to me
 to this graph by adding the year as a colour dimension.\
 \
-![](images/image020.png) 
+![](images/image022.png) 
 \
 There seems to be a real explosion of new bikes brought into service in
 2016 and then a whole new wave in 2018.
 
-![](images/image021.png) 
+![](images/image023.png) 
 
 **Well isn't that just delightful...\
 \
-![](images/image022.png) 
+![](images/image024.png) 
 
 **Steps taken to still publish effort to Tableau.**
 
 **1. Source data filtered to only include 2015 data.\
 **
 
-![](images/image023.png) 
+![](images/image025.png) 
 \
-![](images/image024.png)
+![](images/image026.png)
 \
-![](images/image026.png) 
-![](images/image027.png)
+![](images/image027.png) 
+![](images/image028.png)
