@@ -17,9 +17,8 @@ Builder 2019.3 to clean such a huge dataset. I also followed along to
 **Linkedin Learning: Creating Interactive Tableau Dashboards**\
 \
 \
-\
-\
-**Key Filtering Steps:**\
+**Key Filtering Steps:**
+===================
 \
 Kept trip duration \<25000 seconds.\
 Birth year \> 1930 and removed null values\
@@ -79,13 +78,10 @@ Questions to Answer:
 
     c.  2017: 14.7 million
 
-    d.  2018: 16 million\
-        \
-        \
-		
+    d.  2018: 16 million\		
 		
 \		
-![](media/image009.png) 
+![](images/image009.png) 
 \
 
   **2. By what percentage has total ridership grown?**
