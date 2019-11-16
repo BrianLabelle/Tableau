@@ -36,7 +36,7 @@ Female and Unknown.
 !![](images/image004.png)
 
 **Tableau Prep Builder 2019.3 \| Output File.** 
-![](media/image5.png){width="6.5in" height="2.870138888888889in"}
+![](media/image5.png) 
 =================================================================================================================
 
 Combining the output of 2015, 2016, 2017 & 2018 with my filters took
@@ -50,18 +50,17 @@ dismiss this data has probably the unknown defaults in some sort of form
 entry defaults. Having the Gender, Birth Year as columns and Sum of all
 records below produced this interesting spike in confused 50 year olds.
 
-![](images/image005.png){width="4.989583333333333in"
-height="3.237898075240595in"}
+![](images/image005.png) 
 
 By removing the sorted Gender and just using the birth year and sum of
 records, the spike was quite obvious.\
 \
-![](images/image006.png){width="6.5in" height="4.204861111111111in"}\
-\
+![](images/image006.png) 
+
 By removing the unknown gender as a filter we achieve a very nice
 graph.\
 \
-![](images/image007.png){width="6.5in" height="4.09375in"}\
+![](images/image007.png) 
 \
 \
 \
@@ -83,13 +82,13 @@ Questions to Answer:
     d.  2018: 16 million\
         \
         \
-        ![](media/image9.png){width="2.619832677165354in"
+![](media/image9.png){width="2.619832677165354in"
         height="3.9375in"}
 
 2.  **By what percentage has total ridership grown?**
     =================================================
 
-![](images/image008.png){width="6.5in" height="4.226388888888889in"}
+![](images/image008.png) 
 
  This rider growth graph shows the growth continuation from Jan 2015 to
  Dec 31th 2018. There is a gap in the data for Q4 of 2016 between
@@ -98,7 +97,7 @@ Questions to Answer:
 3\. How has the proportion of short-term customers and annual subscribers
 changed?\
 \
-![](images/image009.png){width="6.5in" height="4.238194444444445in"}\
+![](images/image009.png)
 \
 It's logical to see how the drop off of subscribers in Q1 of every year
 it being the winter months in New York.
@@ -106,7 +105,7 @@ it being the winter months in New York.
 **4. What are the peak hours in which bikes are used during summer
 months?\
 \
-![](images/image010.png){width="6.5in" height="4.652083333333334in"}
+![](images/image010.png)
 
 **Again no surprise here, very logical that the peak hours during the
 summer months of June, July & August are early morning at 8am and peak
