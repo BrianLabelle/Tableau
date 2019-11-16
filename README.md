@@ -206,7 +206,7 @@ There seems to be a real explosion of new bikes brought into service in
 ![](images/image028.png)
 
 
-** Use the Metadata to navigate **
+** Use the Metadata to navigate for now**
 ========================
 
 https://public.tableau.com/profile/brian.labelle#!/?newProfile=&activeTab=0
