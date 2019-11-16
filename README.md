@@ -67,10 +67,11 @@ graph.\
 \
 Questions to Answer:
 
-1.  **How many trips have been recorded total during the chosen
-    period?**\
+**1. How many trips have been recorded total during the chosen period?**
+    =================================================
+	
     51.5 million trips have been recorded utilizing the data from 2015
-    to the end of 2018.
+    to the end of 2018. ( 1.5 is unknown gender )
 
     a.  2015: 8.6 million
 
@@ -81,13 +82,17 @@ Questions to Answer:
     d.  2018: 16 million\
         \
         \
+		
+		
+\		
 ![](media/image009.png) 
+\
 
   **2. By what percentage has total ridership grown?**
     =================================================
-
+\
 ![](images/image010.png) 
-
+\
  This rider growth graph shows the growth continuation from Jan 2015 to
  Dec 31th 2018. There is a gap in the data for Q4 of 2016 between
  September 26^th^ 2016 to Dec 31^st^ 2016.
