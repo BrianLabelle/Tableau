@@ -206,6 +206,8 @@ There seems to be a real explosion of new bikes brought into service in
 ![](images/image028.png)
 
 
+** Data is only for 2015 due to Tableau Public Limitation **
+========================
 ** Use the Metadata to navigate for now**
 ========================
 
