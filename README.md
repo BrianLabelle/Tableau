@@ -36,7 +36,8 @@ Female and Unknown.
 !![](images/image004.png)
 
 **Tableau Prep Builder 2019.3 \| Output File.** 
-![](media/image5.png) 
+!![](images/image005.png)
+
 =================================================================================================================
 
 Combining the output of 2015, 2016, 2017 & 2018 with my filters took
@@ -113,7 +114,7 @@ between 5 & 6pm.**
 
 **5. What are the peak hours in which bikes are used during winter
 months?**\
-![](images/image011.png){width="6.5in" height="5.011111111111111in"}\
+![](images/image011.png) 
 Again no surprise here, very logical that the peak hours during the
 summer months of December, January & February are early morning at 8am
 and peak at 5pm.
@@ -124,15 +125,13 @@ and peak at 5pm.
 **6. Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)** 
 ====================================================================================================================================================
 
-![](images/image012.png){width="6.5in" height="1.7409722222222221in"}
+![](images/image012.png) 
 
 So it seems that the top 10 starting stations are relatively close to
 New York City Subway line.**\
 \
-![](images/image013.png){width="2.7270833333333333in"
-height="3.530932852143482in"}
-![](images/image014.png){width="2.861570428696413in"
-height="3.125in"}**\
+![](images/image013.png) 
+![](images/image014.png) 
 **
 
 **\
@@ -141,7 +140,7 @@ height="3.125in"}**\
 **7. Today, what is the gender breakdown of active participants (Male v.
 Female)?**\
 \
-![](images/image015.png){width="6.5in" height="3.696527777777778in"}\
+![](images/image015.png) 
 \
 Here is a chart that shows gender by birth year with the **Sum** of the
 duration of the trips. While a vastly different graph below shows the
@@ -151,23 +150,23 @@ through central park during the day. I believe strongly that the 1935 /
 2018 data for both male and females need to be weeded out. There a
 smaller spike for males born in 1931 for the 2015 data set.\
 \
-![](images/image016.png){width="6.5in" height="3.7402777777777776in"}
+![](images/image016.png) 
 
 **8. How does the average trip duration change by age?**
 ========================================================
 
-![](images/image017.png){width="6.5in" height="3.6486111111111112in"}\
+![](images/image017.png)
 \
 It would be worth diving deeper to analyze the spike in people born in
 1935. After parsing out the graph, it's easy to see how there's an
 anomaly in the 2018 data which is the root cause of the odd number
 spike.\
-![](images/image018.png){width="6.5in" height="3.6347222222222224in"}
+![](images/image018.png) 
 
 **9. Which bikes (by ID) are most likely due for repair or inspection in the timespan?**
 ========================================================================================
 
-![](images/image019.png){width="5.03125in" height="2.9203838582677166in"}\
+![](images/image019.png) 
 \
 While playing with the charts an interesting point revealed itself. The
 above chart is showing the total records by Bike ID and it's logical
@@ -176,50 +175,25 @@ older bikes that have been on the services the longest since 2015 which
 begged me to ask the question how could I show that which brought to me
 to this graph by adding the year as a colour dimension.\
 \
-![](images/image020.png){width="5.305758967629046in"
-height="3.1006944444444446in"}\
+![](images/image020.png) 
 \
 There seems to be a real explosion of new bikes brought into service in
 2016 and then a whole new wave in 2018.
 
-![](images/image021.png){width="6.694665354330708in" height="2.09375in"}
+![](images/image021.png) 
 
 **Well isn't that just delightful...\
 \
-![](images/image022.png){width="6.5in" height="2.1666666666666665in"}
+![](images/image022.png) 
 
 **Steps taken to still publish effort to Tableau.**
 
 **1. Source data filtered to only include 2015 data.\
 **
 
-![](images/image023.png){width="2.5729166666666665in"
-height="2.829582239720035in"}**\
+![](images/image023.png) 
 \
-![](images/image024.png)){width="4.060500874890638in"
-height="2.4094542869641296in"}**\
+![](images/image024.png)
 \
-![](images/image026.png){width="5.541666666666667in"
-height="1.5104166666666667in"}**\
-![](images/image027.png){width="5.541666666666667in"
-height="1.5104166666666667in"}**\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-**
+![](images/image026.png) 
+![](images/image027.png)
