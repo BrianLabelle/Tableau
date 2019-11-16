@@ -36,9 +36,8 @@ Female and Unknown.
 ![](images/image004.png)
 
 **Tableau Prep Builder 2019.3 \| Output File.** 
-!![](images/image005.png)
 =================================================================================================================
-
+![](images/image005.png)
 Combining the output of 2015, 2016, 2017 & 2018 with my filters took
 over 30 minutes to generated providing me with over 53 million records.
 
@@ -202,3 +201,5 @@ There seems to be a real explosion of new bikes brought into service in
 \
 ![](images/image027.png) 
 ![](images/image028.png)
+
+
