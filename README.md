@@ -1,6 +1,6 @@
 ![](images/image001.jpg)
 
-Data sets were downloaded from the linked website and easily merged
+Data sets were downloaded from the linked website ( https://www.citibikenyc.com/system-data ) and easily merged
 using a dos command prompt due to the gigantic nature of the data. 2015
 through 2018 was chosen because 2019 data was incomplete. 2013 and 2014
 may have bad data and having not completely refined their process yet
@@ -34,6 +34,9 @@ Removed latitude & longitude extreme outliers & labeled gender as Male,
 Female and Unknown.
 
 ![](images/image004.png)
+
+====================================================================================
+
 
 **Tableau Prep Builder 2019.3 \| Output File.** 
 =================================================================================================================
