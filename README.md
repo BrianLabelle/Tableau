@@ -67,7 +67,8 @@ graph.\
 \
 \
 \
-**Data Utilized: 2015, 2016, 2017, 2018:**\
+**Data Utilized: 2015, 2016, 2017, 2018:**
+=========================================
 \
 Questions to Answer:
 
@@ -85,9 +86,9 @@ Questions to Answer:
 
     d.  2018: 16 million\		
 		
-\		
+	
 ![](images/image009.png) 
-\
+
 
   **2. By what percentage has total ridership grown?**
 =================================================
@@ -96,7 +97,7 @@ Questions to Answer:
 \
  This rider growth graph shows the growth continuation from Jan 2015 to
  Dec 31th 2018. There is a gap in the data for Q4 of 2016 between
- September 26^th^ 2016 to Dec 31^st^ 2016.
+ September 26th 2016 to Dec 31st 2016.
 
   **3. How has the proportion of short-term customers and annual subscribers changed?**
 =================================================
@@ -122,23 +123,19 @@ Again no surprise here, very logical that the peak hours during the
 summer months of December, January & February are early morning at 8am
 and peak at 5pm.
 
-**\
-**
+
 
 **6. Today, what are the top 10 stations in the city for starting a journey? **
-====================================================================================================================================================
+================================================================================
 (Based on data, why do you hypothesize these are the top locations?)** 
 ![](images/image014.png) 
 
 So it seems that the top 10 starting stations are relatively close to
-New York City Subway line.**\
+New York City Subway line and the furest south west seems to be close by to the Twin Towers Memorial
 \
 ![](images/image015.png) 
 ![](images/image016.png) 
-**
 
-**\
-**
 
 **7. Today, what is the gender breakdown of active participants (Male v. Female)?**
 =======================================================================================
@@ -152,7 +149,7 @@ enjoying the old style of transportation, perhaps during their bike
 through central park during the day. I believe strongly that the 1935 /
 2018 data for both male and females need to be weeded out. There a
 smaller spike for males born in 1931 for the 2015 data set.\
-\
+
 
 ![](images/image018.png) 
 
@@ -160,7 +157,7 @@ smaller spike for males born in 1931 for the 2015 data set.\
 ========================================================
 
 ![](images/image019.png)
-\
+
 
 It would be worth diving deeper to analyze the spike in people born in
 1935. After parsing out the graph, it's easy to see how there's an
@@ -192,7 +189,7 @@ There seems to be a real explosion of new bikes brought into service in
 ========================================================================================
 ![](images/image023.png) 
 
-**Well isn't that just delightful...\
+ Well isn't that just delightful...\
 \
 ![](images/image024.png) 
 
