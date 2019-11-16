@@ -16,7 +16,7 @@ Prep** course online in order to be skilled with using Tableau Prep
 Builder 2019.3 to clean such a huge dataset. I also followed along to
 Linkedin Learning: Creating Interactive Tableau Dashboards.
 \
-\
+
 
 **Key Filtering Steps:**
 ===================
@@ -68,7 +68,7 @@ graph.\
 Questions to Answer:
 
 **1. How many trips have been recorded total during the chosen period?**
-    =================================================
+=================================================
 	
     51.5 million trips have been recorded utilizing the data from 2015
     to the end of 2018. ( 1.5 is unknown gender )
@@ -86,7 +86,7 @@ Questions to Answer:
 \
 
   **2. By what percentage has total ridership grown?**
-    =================================================
+=================================================
 \
 ![](images/image010.png) 
 \
@@ -94,7 +94,7 @@ Questions to Answer:
  Dec 31th 2018. There is a gap in the data for Q4 of 2016 between
  September 26^th^ 2016 to Dec 31^st^ 2016.
 
-  **How has the proportion of short-term customers and annual subscribers changed?**
+  **3. How has the proportion of short-term customers and annual subscribers changed?**
 =================================================
 \
 ![](images/image011.png)
