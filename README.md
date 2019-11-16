@@ -14,9 +14,10 @@ To complement the learning done in class, I completed the **Linkedin
 Learning: Cleaning, Transforming and Prepping Your Data With Tableau
 Prep** course online in order to be skilled with using Tableau Prep
 Builder 2019.3 to clean such a huge dataset. I also followed along to
-**Linkedin Learning: Creating Interactive Tableau Dashboards**\
+Linkedin Learning: Creating Interactive Tableau Dashboards.
 \
 \
+
 **Key Filtering Steps:**
 ===================
 \
