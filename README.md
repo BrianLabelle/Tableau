@@ -33,7 +33,7 @@ fields.
 Removed latitude & longitude extreme outliers & labeled gender as Male,
 Female and Unknown.
 
-!![](images/image004.png)
+![](images/image004.png)
 
 **Tableau Prep Builder 2019.3 \| Output File.** 
 !![](images/image005.png)
@@ -84,7 +84,7 @@ Questions to Answer:
         \
 ![](media/image009.png) 
 
-2.  **By what percentage has total ridership grown?**
+  **2. By what percentage has total ridership grown?**
     =================================================
 
 ![](images/image010.png) 
@@ -93,16 +93,16 @@ Questions to Answer:
  Dec 31th 2018. There is a gap in the data for Q4 of 2016 between
  September 26^th^ 2016 to Dec 31^st^ 2016.
 
-3\. How has the proportion of short-term customers and annual subscribers
-changed?\
+  **How has the proportion of short-term customers and annual subscribers changed?**
+=================================================
 \
 ![](images/image011.png)
 \
 It's logical to see how the drop off of subscribers in Q1 of every year
 it being the winter months in New York.
 
-**4. What are the peak hours in which bikes are used during summer
-months?\
+**4. What are the peak hours in which bikes are used during summer months?**
+=================================================
 \
 ![](images/image012.png)
 
@@ -110,8 +110,8 @@ months?\
 summer months of June, July & August are early morning at 8am and peak
 between 5 & 6pm.**
 
-**5. What are the peak hours in which bikes are used during winter
-months?**\
+**5. What are the peak hours in which bikes are used during winter months?**
+=================================================
 ![](images/image013.png) 
 Again no surprise here, very logical that the peak hours during the
 summer months of December, January & February are early morning at 8am
@@ -120,9 +120,9 @@ and peak at 5pm.
 **\
 **
 
-**6. Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)** 
+**6. Today, what are the top 10 stations in the city for starting a journey? **
 ====================================================================================================================================================
-
+(Based on data, why do you hypothesize these are the top locations?)** 
 ![](images/image014.png) 
 
 So it seems that the top 10 starting stations are relatively close to
@@ -135,8 +135,8 @@ New York City Subway line.**\
 **\
 **
 
-**7. Today, what is the gender breakdown of active participants (Male v.
-Female)?**\
+**7. Today, what is the gender breakdown of active participants (Male v. Female)?**
+=======================================================================================
 \
 ![](images/image017.png) 
 \
@@ -148,6 +148,7 @@ through central park during the day. I believe strongly that the 1935 /
 2018 data for both male and females need to be weeded out. There a
 smaller spike for males born in 1931 for the 2015 data set.\
 \
+
 ![](images/image018.png) 
 
 **8. How does the average trip duration change by age?**
@@ -155,10 +156,13 @@ smaller spike for males born in 1931 for the 2015 data set.\
 
 ![](images/image019.png)
 \
+
 It would be worth diving deeper to analyze the spike in people born in
 1935. After parsing out the graph, it's easy to see how there's an
 anomaly in the 2018 data which is the root cause of the odd number
 spike.\
+
+
 ![](images/image020.png) 
 
 **9. Which bikes (by ID) are most likely due for repair or inspection in the timespan?**
@@ -178,6 +182,9 @@ to this graph by adding the year as a colour dimension.\
 There seems to be a real explosion of new bikes brought into service in
 2016 and then a whole new wave in 2018.
 
+
+** PROBLEMS **
+========================================================================================
 ![](images/image023.png) 
 
 **Well isn't that just delightful...\
@@ -185,9 +192,9 @@ There seems to be a real explosion of new bikes brought into service in
 ![](images/image024.png) 
 
 **Steps taken to still publish effort to Tableau.**
+========================
 
-**1. Source data filtered to only include 2015 data.\
-**
+1. Source data filtered to only include 2015 data.
 
 ![](images/image025.png) 
 \
